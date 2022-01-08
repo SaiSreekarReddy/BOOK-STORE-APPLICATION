@@ -1,0 +1,5 @@
+This project is built on a Java-based Book Store Application with a Graphic User Interface. The following are the specifics of the project:
+This application is centered on obtaining basic information from customers who intend to purchase a book.
+There are two types of screens in this project: customer and owner screens.
+The Owner Screen displays the fundamental information about the Books.
+The Customer Screen displays the customer's basic information and membership status, followed by the title of the book and its price.
